@@ -1,2 +1,2 @@
-# Dennki.IPA
+# Denki.IPA
 first brew
